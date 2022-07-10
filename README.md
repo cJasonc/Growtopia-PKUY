@@ -11,5 +11,6 @@ Auto Surg
 Auto Spam
 Auto Farm anything
 
-Reversal date: 2022 09 28
-Leak date: 2022 09 29
+Reversal date: 2022 05 29
+Leak date: 2022 05 29
+Last Update: 2022 07 10
